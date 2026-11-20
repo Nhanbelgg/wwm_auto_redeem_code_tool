@@ -8,3 +8,6 @@ MUST Run this file as ADMINSTRATOR*
 
 
 *PHẢI CHẠY file này với vai trò ADMIN thì mới nhập được*
+
+
+Link download (heavier than 25MB can't upload to git 😥): https://www.mediafire.com/file/aib0lx7bpsswtt1/WWMCodePaster.exe/file
