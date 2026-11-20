@@ -4,7 +4,7 @@
 *Tool này lấy code từ web "https://codes.yar.gg/" và mình nghĩ nó sẽ tự động cập nhật vì trên web nó note vậy :))*
 
 
-MUST Run this file as ADMINSTRATOR*
+MUST Run this file as ADMINISTRATOR*
 
 
 *PHẢI CHẠY file này với vai trò ADMIN thì mới nhập được*
